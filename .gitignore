@@ -1,0 +1,41 @@
+# Maven specific
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# IDE specific
+.idea/
+*.iml
+*.iws
+*.ipr
+*.log
+*.log.*
+
+# Eclipse specific
+.classpath
+.project
+.settings/
+
+# NetBeans specific
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbactions.xml
+/nb-configuration.xml
+
+# Visual Studio Code specific
+.vscode/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+
+# Package files
+*.jar
+*.war
+*.ear
+*.zip
+
+# Compiled class files
+*.class
